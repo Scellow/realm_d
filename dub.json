@@ -1,0 +1,9 @@
+{
+	"name": "realm_d",
+	"authors": [
+		"Scellow"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, Scellow",
+	"license": "proprietary"
+}
